@@ -1,1 +1,25 @@
 
+<!DOCTYPE html>
+
+<html lang="es">
+
+    <head>
+        <meta charset="UFT-8">
+        <title>Pasteleria</title>
+    </head>
+
+    <body>
+        <p>Pedidos pendientes</p>
+        <input type="radio">ninguno
+        <input type="radio">todos
+        <p>ingresa la fehca de entrega</p>
+        <input type="date">
+        <p>Ingresa nombre de entrega</p>
+        <input type="text">
+        <p>Direccion de entrega</p>
+        <input type="text">
+        <p>Precio</p>
+        <input type="text" name="" id="">
+        <button>Enviar factura</button>
+    </body>
+</html>
