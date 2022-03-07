@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html leng="es">
+
+    <head>
+        <meta charset="UFT-8">
+        <title>Pasteleria</title>
+
+    </head>
+    
+    <body>
+
+        <div class="menu_todo">
+            
+            <h1>Pastelaxia</h1>
+            <p>Pasteleria de nivel universal y multiversal</p>
+            <div class="menu_sabores">
+                <h2>Sabores y precios</h2>
+                <p>Contamos con precios de otro mundo que no lo creeras</p>
+                <table >
+                    <tr>
+                        <th>Sabor</th>
+                        <th>Precio 5kg</th>
+                        <th>Precio 10kg</th>
+                        <th>PRECIO 15kg</th>
+                        <th>precio 20kg</th>
+                        <br>
+
+                    </tr>
+                    
+                    
+                    <tr>
+                        
+                        <th>Vainilla</th>
+                        <th>$300</th>
+                        <th>$400</th>
+                        <th>$600</th>
+                        <th>$700</th>
+                        <br>
+
+                    </tr>
+
+                    <tr>
+                        <th>Chocolate</th>
+                        <th>$350</th>
+                        <th>$450</th>
+                        <th>$650</th>
+                        <th>$750</th>
+                        <br>
+                        
+                    </tr>
+
+                    <tr>
+                        <th>Fresa</th>
+                        <th>$300</th>
+                        <th>$400</th>
+                        <th>$600</th>
+                        <th>$700</th>
+                    </tr>
+
+                    <tr>
+                        <th>Combinado</th>
+                        <th>$400</th>
+                        <th>$500</th>
+                        <th>$700</th>
+                        <th>$800</th>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="menu_adornos">
+                <h2>Prodcutos de otro universo</h2>
+                
+                <table>
+                    <tr>
+                        <th>Articulo</th>
+                        <th>Precio C/U</th>
+                    </tr>
+
+                    <tr>
+                        <th>Nave espacial</th>
+                        <th>$30</th>
+                    </tr>
+
+                    <tr>
+                        <th>Mundo</th>
+                        <th>$20</th>
+                    </tr>
+
+                    <tr>
+                        <th>Glaxia</th>
+                        <th>$30</th>
+                    </tr>
+
+                    <tr>
+                        <th>Estrella fugaz</th>
+                        <th>$50</th>
+                    </tr>
+                </table>
+
+                <a href="/Pedido.html"> <button>Realizar pedido</button></a>
+        
+            </div>
+        </div>
+
+        <footer>
+            
+            <p>55-12-34-56-78</p>
+            <p>Avenida montes bravo, colonia renolt focus No.070</p>
+            <p>Lunes a domingo de 7:00AM a 8:00PM</p>
+        </footer>
+    </body>
+</html>
