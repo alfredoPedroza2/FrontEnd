@@ -1,1 +1,33 @@
+<!DOCTYPE html>
 
+<html lang="es">
+
+    <head>
+        <meta charset="UFT-8">
+        <title>Pasteleria</title>
+    </head>
+
+    <body>
+        <h1>Selecciona tus Opciones</h1>
+        <p>Ingresa tu nombre</p>
+        <input type="text">
+        <p>seleccciona el peso de tu pastel</p>
+        <input type="radio">50kg
+        <input type="radio">10kg
+        <input type="radio">15kg
+        <input type="radio">20kg
+        <p>Selecciona los sabores de tu pastel</p>
+        <input type="checkbox">Fresa
+        <input type="checkbox">Vainilla
+        <input type="checkbox">Chocolate
+        <p>Ingresa los accesorios</p>
+        <input type="checkbox">Nave espacial
+        <input type="checkbox">Mundo
+        <input type="checkbox">Glaxia
+        <input type="checkbox">Estrella fugaz
+        <p>ingresa la fehca de entrega</p>
+        <input type="date">
+
+        <button>Pedir</button>
+    </body>
+</html>
