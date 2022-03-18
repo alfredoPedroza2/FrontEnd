@@ -1,0 +1,417 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    margin-left: 200px;
+    background-color: white;
+    padding: 0px;
+}
+
+footer{
+    margin-left: -250px;
+    background-color: white;
+    padding: 0px;
+    height: 300px;
+    margin-top: 2750px;
+    position: absolute;
+}
+
+.Logo{
+    position: absolute;
+    margin-left: 250px;
+}
+
+.Logo p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: blue;
+    font-weight: 900;
+}
+
+.Menu{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 620px;
+}
+
+.Menu button{
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(94, 94, 155);
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.ar4 button{
+    position: absolute;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(82, 82, 231);
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.Menu .unico{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ar1 {
+    position: absolute;
+    margin-top: 100px;
+}
+
+.ar1 .text {
+    width: 500px;
+}
+
+.text{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.img{
+    position: absolute;
+    margin-left: 525px;
+    background: transparent;
+}
+
+.img img{
+    width: 500px;
+    height: 700px;
+   
+}
+.text h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: 900;
+    color: rgb(1, 8, 107);
+}
+
+.text p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(67, 72, 136);
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(67, 72, 136);
+}
+
+.text img{
+    width: 20px;
+}
+
+.escudo{
+    position: absolute;
+}
+
+.escudo .esc{
+    position: absolute;
+}
+
+.escudo .esct {
+    position: relative;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.estrella{
+    position: absolute;
+    margin-left: 200px;
+}
+
+.estrella .esc{
+    position: absolute;
+}
+
+.estrella .esct {
+    position: relative;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+h6{
+    color: rgb(165, 165, 192);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25px;
+}
+
+input{
+    padding: 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0px;
+    border: none;
+    font-size: 20px;
+    color: rgb(1, 8, 107);
+    outline: none;
+    position: absolute;
+    margin-left: 20px;
+}
+
+img{
+    width: 20px;
+    position: absolute;
+}
+
+.datos{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 50px;
+    width: 750px;
+    height: 80px;
+    background-color: white;
+    box-shadow: 0px 0px 30px rgb(115, 185, 241);
+    border-radius: 20px;
+}
+.datos div{
+    position: absolute;
+}
+
+.datos h6{
+    margin-top: 0px;
+    
+}
+
+.datos .a input{
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 10px;
+}
+
+.datos .b{
+    margin-left: 110px;
+}
+
+.datos .b input{
+    position: absolute;
+    margin-top: -45px;
+    margin-left: -10px;
+}
+.datos .c{
+    margin-left: 320px;
+}
+
+.datos .c input{
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 10px;
+}
+
+.datos .c button{    
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 300px;
+}
+
+.ar4 .bo{    
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: 900;
+    color: rgb(1, 8, 107);
+}
+
+.ar2 .prin{
+    width: 600px;
+    margin-top: 800px;
+    position: absolute;
+}
+
+.sectwo {
+    position: absolute;
+    width: 250px;
+    height: 280px;
+    margin-top: 1050px;
+    box-shadow: 0px 0px 30px rgb(208, 227, 243);
+    border-radius: 20px;
+}
+ 
+.sectwo img{
+    width: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.sectwo h6{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(1, 8, 107);
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.sectwo p{
+    margin-left: 5px;
+}
+#w{
+    margin-left: 270px;
+}
+
+#y{
+    margin-left: 540px;
+}
+
+#x{
+    margin-left: 810px;
+}
+
+.ar3{
+    margin-top: 1400px;
+    position: absolute;
+}
+
+.ar3 div{
+    width: 500px;
+    position: absolute;
+    margin-left: 510px;
+}
+
+.ar3 img{
+    margin-left: -520px;
+    margin-top: -20px;
+    height: 660px;
+    width: 500px;
+}
+
+h3{
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(67, 72, 136);
+}
+
+.ar4{
+    position: absolute;
+    margin-top: 2100px;
+}
+
+.ar4 div{
+    width: 500px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.ar4 img{
+    position: absolute;
+    margin-top: -100px;
+}
+
+.men .p{
+    width: 200px;
+    height: 150px;
+    box-shadow: 0px 0px 30px rgb(208, 227, 243);
+}
+
+.men .q{
+    width: 200px;
+    margin-left: 225px;  
+    height: 150px;
+    box-shadow: 0px 0px 30px rgb(208, 227, 243);
+}
+
+.men .r{
+    width: 200px;
+    margin-top: 170px; 
+    height: 150px;
+    box-shadow: 0px 0px 30px rgb(208, 227, 243); 
+}
+
+.men .s{
+    width: 200px;
+    margin-left: 225px;
+    margin-top: 170px; 
+    height: 130px;
+    box-shadow: 0px 0px 30px rgb(208, 227, 243);   
+}
+
+.men .bo{
+    margin-top: -30px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.men .ba{
+    margin-left: 10px;
+    margin-top: -30px;
+    background-color: rgb(220, 236, 252);
+    border-radius: 10px;
+}
+
+.men .bi{
+    margin-left: 10px;
+    margin-top: -30px;
+    background-color: rgb(229, 248, 242);
+    border-radius: 10px;
+}
+
+.men .bu{
+    margin-left: 10px;
+    margin-top: -30px;
+    background-color: rgb(229, 248, 242);
+    border-radius: 10px;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(94, 94, 155);
+    margin-top:-15px;
+}
+
+footer div {
+    position: absolute;
+}
+
+footer .Log{
+    margin-left: 700px;
+    margin-top: 30px;
+    width: 200px;
+}
+
+footer .Lo{
+    margin-left: 950px;
+    margin-top: 30px;
+    width: 200px;
+}
+
+footer .L{
+    margin-left: 1100px;
+    margin-top: 30px;
+    width: 200px;
+}
+
+footer p{
+    color: rgb(19, 15, 77);
+    font-weight: 900;
+}
